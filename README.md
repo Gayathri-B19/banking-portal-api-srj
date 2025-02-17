@@ -47,3 +47,5 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 ## Error Handling
 
 The API implements global exception handling for common error scenarios, such as account not found, unauthorized access, and insufficient balance.
+
+dummy checkin to evaluate Build pipeline
